@@ -35,3 +35,29 @@ Bu projeye katkıda bulunmak isterseniz, aşağıdaki adımları izleyebilirsini
 
 ## İletişim
 Sorularınız veya önerileriniz için mustafa.durmazer@icloud.com adresinden benimle iletişime geçebilirsiniz.
+
+
+
+------------------------------------------------------------------------------------------------
+
+Python Education Notes
+About the Project
+
+This repository contains a series of Jupyter Notebooks designed for anyone who wants to learn Python. Each notebook focuses on a specific topic, providing both theoretical explanations and practical examples to help users understand and practice the concepts.
+
+Contents
+
+The notebooks cover a wide range of topics, starting from variables and data types, strings, lists, dictionaries, sets, tuples, and booleans, to control structures like if statements and loops. It also includes lessons on functions, practical function applications, object-oriented programming (OOP) with classes, and examples of OOP. Additionally, the repository contains multiple quizzes to test understanding and a section on error handling in Python.
+
+Usage
+
+These notes are suitable for beginners who want a structured guide to learn Python, as well as for more experienced programmers who want to refresh their knowledge. All content is presented in interactive Jupyter Notebook format, making it easy to follow and practice.
+
+Contributing
+
+If you would like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request.
+
+Contact
+
+For questions or suggestions, you can reach me at mustafa.durmazer@icloud.com
+.
